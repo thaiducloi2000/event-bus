@@ -1,0 +1,28 @@
+{
+    "name": "com.littlekid.event-bus",
+    "displayName": "Event Bus",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "description": "A flexible and decoupled event bus system for Unity gameplay logic, designed for modular and scalable architecture.",
+    "author": {
+      "name": "LittleKid",
+      "email": "thaiducloi2000@gmail.com",
+      "url": "https://github.com/thaiducloi2000"
+    },
+    "keywords": [
+      "event",
+      "eventbus",
+      "gameplay",
+      "architecture",
+      "decoupled",
+      "messaging"
+    ],
+    "type": "library",
+    "samples": [
+      {
+        "displayName": "Basic Usage",
+        "description": "Example of registering and triggering an event.",
+        "path": "Samples~/BasicUsage"
+      }
+    ]
+  }
