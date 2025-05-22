@@ -30,9 +30,6 @@ Alternatively, you can add it directly in `manifest.json`:
   }
 }
 ```
-
-> Replace with the actual repository URL if hosted on GitHub or GitLab.
-
 ---
 
 ## 🧩 Features
