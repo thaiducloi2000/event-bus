@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 namespace EventBus
 {
     [CreateAssetMenu(fileName = "GameplayEvent", menuName = "EventBus/Gameplay")]
